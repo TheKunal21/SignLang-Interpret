@@ -7,3 +7,4 @@ logs/
 *.keras
 .env
 .vscode/
+kaggle.json
